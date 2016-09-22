@@ -1,0 +1,5 @@
+C:\Users\Hamlet\Source\Repos\AutoReyes2\Tarea\DAL\bin\Debug\DAL.dll
+C:\Users\Hamlet\Source\Repos\AutoReyes2\Tarea\DAL\bin\Debug\DAL.pdb
+C:\Users\Hamlet\Source\Repos\AutoReyes2\Tarea\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Hamlet\Source\Repos\AutoReyes2\Tarea\DAL\obj\Debug\DAL.dll
+C:\Users\Hamlet\Source\Repos\AutoReyes2\Tarea\DAL\obj\Debug\DAL.pdb
