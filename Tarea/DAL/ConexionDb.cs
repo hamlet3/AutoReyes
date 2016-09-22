@@ -5,6 +5,7 @@ using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Configuration;
 
 namespace DAL
 {
@@ -15,7 +16,7 @@ namespace DAL
 
         public ConexionDb()
         {
-            con = new SqlConnection("Data Source= HAMLET-PC; Initial Catalog = Tarea;  Integrated Security=true");
+            con = new SqlConnection(ConfigurationManager.ConnectionStrings["ConStr"].ConnectionString);
             Cmd = new SqlCommand();
         }
 

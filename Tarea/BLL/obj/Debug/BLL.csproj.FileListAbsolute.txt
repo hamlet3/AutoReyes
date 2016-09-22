@@ -5,3 +5,10 @@ C:\Users\Hamlet\Source\Repos\AutoReyes2\Tarea\BLL\bin\Debug\DAL.pdb
 C:\Users\Hamlet\Source\Repos\AutoReyes2\Tarea\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
 C:\Users\Hamlet\Source\Repos\AutoReyes2\Tarea\BLL\obj\Debug\BLL.dll
 C:\Users\Hamlet\Source\Repos\AutoReyes2\Tarea\BLL\obj\Debug\BLL.pdb
+C:\Users\Hamlet\Source\Repos\AutoReyes\Tarea\BLL\bin\Debug\BLL.dll
+C:\Users\Hamlet\Source\Repos\AutoReyes\Tarea\BLL\bin\Debug\BLL.pdb
+C:\Users\Hamlet\Source\Repos\AutoReyes\Tarea\BLL\bin\Debug\DAL.dll
+C:\Users\Hamlet\Source\Repos\AutoReyes\Tarea\BLL\bin\Debug\DAL.pdb
+C:\Users\Hamlet\Source\Repos\AutoReyes\Tarea\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Hamlet\Source\Repos\AutoReyes\Tarea\BLL\obj\Debug\BLL.dll
+C:\Users\Hamlet\Source\Repos\AutoReyes\Tarea\BLL\obj\Debug\BLL.pdb
